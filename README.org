@@ -1,0 +1,107 @@
+#+TITLE: CV
+
+Information and collection about repos, reports and more used for CVs and Personal letters
+
+
+* Projects
++ Surmize
++ Master Thesis
++ [[https://github.com/MarkusSagen/keras_classifier][keras_classifier]] for Peltarion Interview
++ [[https://github.com/MarkusSagen/Estimating-Uncertainty-in-Deep-Learning---project-2019][Estimating-Uncertainty-in-Deep-Learning]]
++ Automatic Memory manager in C (TODO)
++ [[https://github.com/IOOPM-UU/team-a2.2020][Memory management library in C based on reference counters]]
++ [[https://github.com/MrHed/ACC-grp6][Cloud service for computing genomic analysis with scalable clusters]] (Cloud compute)
++ Bayesian ranking system based on Microsoft TrueSkill
++ [[http://2018.igem.org/Team:Uppsala][iGEM 2018 tema webpage]]
++ [[https://github.com/MarkusSagen/MarkusSagen.github.io][Home page - MarkusSagen.github.io]]
++ [[https://github.com/MarkusSagen/Arduino_Keyboard_Multiple_inputs][Arduino_Keyboard_Multiple_inputs]]
++ [[https://github.com/MarkusSagen/mk3-spotify][GitHub - MarkusSagen/mk3-spotify: Spotify API tester with react]]  - Needs to be tested and dependencies updated
++ TODO - IOOPM:
+  - https://github.com/IOOPM-UU/alexander.bergkvist.5473
+  - https://github.com/MarkusSagen/Assignment_2
+
+* Personal Letter
+*** Machine learning - main_machine_learning:
+- https://www.overleaf.com/project/5e6ea2fca294ee000136779d
+*** Software Engineer - main_software_engineering:
+- https://www.overleaf.com/project/5e6ea2fca294ee000136779d
+* CV
+- https://www.overleaf.com/project/5e3765dcd4449b0001710fff
+
+* Jobs
+** TODO Graduate Programs and Internship
+** Machine learning
+** Software Engineer
+- **TODO**: Salesforce, PwC, Fitbit, Johnsons & Johnsons, Etsy, Microsoft, Dell, HP, IBM
+- [-] Multisoft
+- [ ] https://modulai.io/#contact
+  https://modulai.io/career/
+- [ ] https://cygni.se/fullstacksutvecklare/
+- [ ] https://www.mentimeter.com/jobs#open-positions
+- [ ] https://careers.easyparkgroup.com/
+- [ ] [[https://www.glassdoor.com/job-listing/software-engineer-boston-consulting-group-JV_IC3283253_KO0,17_KE18,41.htm?jl=3284821307&pos=101&ao=916425&s=149&guid=000001768fda65e38ca78749d5d41fb9&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_ab506a11&cb=1608731223910&jobListingId=3284821307&ctt=1608731227780][Boston Consulting Group Software Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/software-engineer-northvolt-ab-JV_IC3283253_KO0,17_KE18,30.htm?jl=3758845750&pos=112&ao=1136006&s=58&guid=000001768fda65e3b78b5d4234eee582&src=GD_JOB_AD&t=SR&vt=w&cs=1_26f3e1c0&cb=1608731223917&jobListingId=3758845750&ctt=1608731239826][Northvolt AB Software Engineer Job in Stockholm | Glassdoor]]
+- [ ] https://www.spotifyjobs.com/
+- [ ] [[https://www.glassdoor.com/job-listing/front-end-software-engineer-billhop-JV_IC3283253_KO0,27_KE28,35.htm?jl=3657023679&pos=126&ao=1136006&s=58&guid=000001768fda65e3b78b5d4234eee582&src=GD_JOB_AD&t=SR&vt=w&cs=1_f1f632fa&cb=1608731223921&jobListingId=3657023679&ctt=1608731257030][Billhop Front End Software Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/senior-software-engineer-back-end-episerver-JV_IC3283253_KO0,33_KE34,43.htm?jl=3749158728&pos=214&ao=831324&s=58&guid=000001768fdaf2bda43426f60789dd8a&src=GD_JOB_AD&t=SR&vt=w&cs=1_745f4bc0&cb=1608731259881&jobListingId=3749158728&ctt=1608731278762][Episerver Senior Software Engineer Back End Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/software-engineer-backend-acast-JV_IC3283253_KO0,25_KE26,31.htm?jl=3734071320&pos=224&ao=1136006&s=58&guid=000001768fdaf2bda43426f60789dd8a&src=GD_JOB_AD&t=SR&vt=w&cs=1_6d9b534d&cb=1608731259887&jobListingId=3734071320&ctt=1608731283854][Acast Software Engineer/ Backend Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/machine-learning-engineer-visma-JV_IC3283253_KO0,25_KE26,31.htm?jl=3756133137&pos=102&ao=1136006&s=58&guid=000001768fdb68e6b9899e6163b3aaca&src=GD_JOB_AD&t=SR&vt=w&cs=1_bebe8f34&cb=1608731289987&jobListingId=3756133137&ctt=1608731293518][Visma Machine Learning Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/machine-learning-engineer-boston-consulting-group-JV_IC3283253_KO0,25_KE26,49.htm?jl=3284821210&pos=102&ao=916425&s=149&guid=000001768fdb68e6b9e4b1340c4f373a&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_d3b6c523&cb=1608731289987&jobListingId=3284821210&ctt=1608731296195][Boston Consulting Group Machine Learning Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/data-scientist-storytel-JV_IC3283253_KO0,14_KE15,23.htm?jl=3777885672&pos=122&ao=1136006&s=58&guid=000001768fdb68e6b9899e6163b3aaca&src=GD_JOB_AD&t=SR&vt=w&cs=1_56b606d7&cb=1608731289994&jobListingId=3777885672&ctt=1608731312684][Storytel Data Scientist Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/senior-ai-scientist-to-stockholm-machine-learning-silo-ai-JV_IC3283253_KO0,49_KE50,57.htm?jl=3677885680&pos=123&ao=1136006&s=58&guid=000001768fdb68e6b9899e6163b3aaca&src=GD_JOB_AD&t=SR&vt=w&cs=1_aa71e04f&cb=1608731289994&jobListingId=3677885680&ctt=1608731314231][Silo AI Senior AI Scientist to Stockholm - Machine Learning Job in Stockholm ...]]
+- [ ] [[https://www.glassdoor.com/job-listing/data-scientist-mckinsey-analytics-mckinsey-company-JV_IC3283253_KO0,33_KE34,50.htm?jl=3723594453&pos=124&ao=1136006&s=58&guid=000001768fdb68e6b9899e6163b3aaca&src=GD_JOB_AD&t=SR&vt=w&cs=1_f31b6ff6&cb=1608731289995&jobListingId=3723594453&ctt=1608731315884][McKinsey & Company Data Scientist - McKinsey Analytics Job in Stockholm | Gla...]]
+- [ ] [[https://www.glassdoor.com/job-listing/machine-learning-engineer-tmc-JV_IC3283253_KO0,25_KE26,29.htm?jl=3657019005&pos=314&ao=1136006&s=58&guid=000001768fdc4f5c94e0b708aefff25e&src=GD_JOB_AD&t=SR&vt=w&cs=1_f6816772&cb=1608731349090&jobListingId=3657019005&ctt=1608731365631][TMC MACHINE LEARNING ENGINEER Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/machine-learning-engineer-paypal-JV_IC3283253_KO0,25_KE26,32.htm?jl=3685735369&pos=102&ao=955533&s=142&guid=00000176917c67bb8542710bf606817e&src=GD_JOB_AD&ei=2800&t=FJ&extid=3&exst=&ist=OL&ast=OL&vt=w&slr=false&cs=1_7e214020&cb=1608758618191&jobListingId=3685735369&ctt=1608758646375][Paypal Machine Learning Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/machine-learning-engineer-izettle-JV_IC3283253_KO0,25_KE26,33.htm?jl=3685616938&pos=105&ao=1134359&s=142&guid=00000176917c67bb8542710bf606817e&src=GD_JOB_AD&ei=2800&t=FJ&extid=3&exst=&ist=OL&ast=OL&vt=w&slr=false&cs=1_9958ca1b&cb=1608758618193&jobListingId=3685616938&ctt=1608758650206][iZettle Machine Learning Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/python-software-engineer-kambi-stockholm-JV_IC3283253_KO0,24_KE25,40.htm?jl=3777237437&pos=320&ao=1136006&s=58&guid=000001768fdc4f5c94e0b708aefff25e&src=GD_JOB_AD&t=SR&vt=w&cs=1_88bb41b1&cb=1608731349092&jobListingId=3777237437&ctt=1608731372513][Kambi Stockholm Python Software Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/data-engineer-darwin-recruitment-JV_IC3283253_KO0,13_KE14,32.htm?jl=3734147407&pos=322&ao=1136006&s=58&guid=000001768fdc4f5c94e0b708aefff25e&src=GD_JOB_AD&t=SR&vt=w&cs=1_e77bf5eb&cb=1608731349092&jobListingId=3734147407&ctt=1608731374678][Darwin Recruitment Data Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/software-engineer-python-yubico-JV_IC3283253_KO0,24_KE25,31.htm?jl=3681302278&pos=101&ao=148364&s=153&guid=0000017691846154b18112e37fa9fb1f&src=GD_JOB_AD&t=PAV&extid=25&exst=&ist=L&ast=L&slr=true&cs=1_a1b7e622&cb=1608759140835&jobListingId=3681302278&srs=RECOMMENDED_JOBS_JV&ctt=1608759147717][Yubico Software Engineer (Python) Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/python-developer-integrations-oneflow-JV_IC3283253_KO0,29_KE30,37.htm?jl=3754621470&pos=106&ao=1136006&s=153&guid=0000017691846154b18112e37fa9fb1f&src=GD_JOB_AD&t=PAV&extid=25&exst=&ist=L&ast=L&slr=true&cs=1_6ac07d4d&cb=1608759140836&jobListingId=3754621470&srs=RECOMMENDED_JOBS_JV&ctt=1608759154851][Oneflow Python Developer - Integrations Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/software-engineer-python-yubico-JV_IC3283253_KO0,24_KE25,31.htm?jl=3681302278&pos=103&ao=148364&s=58&guid=000001768fdcd81e9b3d1ccf748250e5&src=GD_JOB_AD&t=SR&vt=w&cs=1_fa4ffd0c&cb=1608731383932&jobListingId=3681302278&ctt=1608731394089][Yubico Software Engineer (Python) Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/python-software-engineer-kambi-stockholm-JV_IC3283253_KO0,24_KE25,40.htm?jl=3777237437&pos=104&ao=1136006&s=58&guid=000001768fdcd81e9b3d1ccf748250e5&src=GD_JOB_AD&t=SR&vt=w&cs=1_ed323b70&cb=1608731383932&jobListingId=3777237437&ctt=1608731395480][Kambi Stockholm Python Software Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/python-developer-anyfin-JV_IC3283253_KO0,16_KE17,23.htm?jl=3720025316&pos=118&ao=1136006&s=58&guid=000001768fdcd81e9b3d1ccf748250e5&src=GD_JOB_AD&t=SR&vt=w&cs=1_b983495e&cb=1608731383939&jobListingId=3720025316&ctt=1608731411624][Anyfin Python Developer Job in Stockholm | Glassdoor]]
+- [ ] [[https://www.glassdoor.com/job-listing/cloud-aws-engineer-with-python-skills-insert-talent-ab-JV_IC3283253_KO0,37_KE38,54.htm?jl=3734789960&pos=121&ao=1136006&s=58&guid=000001768fdcd81e9b3d1ccf748250e5&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_c84c89c2&cb=1608731383941&jobListingId=3734789960&ctt=1608731416597][Insert Talent AB Cloud AWS Engineer with Python skills Job in Stockholm | Gla...]]
+- [ ] [[https://www.glassdoor.com/job-listing/data-engineer-epidemic-sound-JV_IC3283253_KO0,13_KE14,28.htm?jl=3527393090&pos=203&ao=478887&s=58&guid=000001768fb2695a9b086d13167c9b75&src=GD_JOB_AD&t=SR&vt=w&cs=1_c4c1884a&cb=1608728603131&jobListingId=3527393090&ctt=1608728612229][Epidemic Sound Data Engineer Job in Stockholm | Glassdoor]]
+- [ ] [[https://fyndiq.teamtailor.com/connect/profile][Fyndiq AB – Connect]]
+- [ ] [[https://www.accenture.com/se-en/careers][Accenture Careers & Job Opportunities | Accenture]]
+- [ ] [[https://career.kry.se/jobs][Jobs list - Kry]]
+- [ ] [[https://jobs.lever.co/klarna][Klarna]]
+- [ ] [[https://jobsearch.paypal-corp.com/en-US/search?facetcompany=izettle&facetcitystate=stockholm,stockholms%20l%C3%A4n][Jobs in Stockholm, Stockholms län at PayPal]]
+- [ ] [[https://www.cloudnet.se/jobba-hos-oss/][Jobba hos oss - Cloudnet]]
+- [ ] [[https://www.kambi.com/find-job][Find a job | Kambi]]
+- [ ] [[https://www.telenor.com/career/vacant-positions/][Vacant Positions - Telenor Group]]
+- [ ] [[https://www.teliacompany.com/en/careers/join-us/open-positions/][Open positions - Telia Company]]
+- [ ] [[https://www.tele2.com/career/job-openings/][Job openings - Tele2]]
+- [ ] [[https://career.shayasolutions.com/][Konsult- och kompetenspartner inom IT, Management och Teknik - Shaya Solution...]]
+- [ ] https://career.hm.com/content/hmcareer/en_se/findjob.html
+- [ ] [[https://northvolt.com/career?d=Software+%26+IT%2CStudent][Northvolt | Enabling the Future of Energy]]
+- [ ] [[https://karriar.mathem.se/departments/25336-development][MatHem]]
+- [ ] [[https://careers.avanade.com/jobsseno/SearchJobs/?3_56_3=19923&3_67_3=194784][Find Jobs - Avanade Jobs (engb)]]
+- [ ] https://carmenta.com/en/jobs/ (Save lives with code)
+- [ ] https://inoviagroup.se/company/career/
+- [ ] https://career.betao.se/jobs/939695-software-engineer-backend
+- [ ] https://career.paradoxplaza.com/jobs/938484-junior-developer-data-team
+- [ ] https://www.sigmait.se/en/career/openings/position?id=707
+- [ ] https://www.kgkgroup.com/careers/
+- [ ] https://jobs.lever.co/klarna/
+- [ ] https://neo4j.com/careers/
+- [ ] [[https://enginzyme.breezy.hr/p/f11a3c10d21f01-computational-enzyme-engineer-machine-learning?source=www.google.com&popup=true][Computational Enzyme Engineer (Machine Learning) at EnginZyme]]
+- [ ] https://www.sogeti.se/jobba-hos-oss/lediga-jobb/
+- [ ] https://careers.kindredgroup.com/vacancy/find/results/
+- [ ] https://jobs.swedbank.com/departments/it-and-data
+- [ ] [[https://www.linkedin.com/jobs/view/2322858794/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=COMPANY_RECRUIT&refId=kLgPAxhNQBtH6udOeWc09w%3D%3D&trackingId=vctRZawQWAMAmwvBsNq2hw%3D%3D&trk=flagship3_search_srp_jobs][Bravura Sverige hiring Junior Utvecklare / Utvecklare inom AWS till Axfood IT...]]
+- [ ] https://jobs.storytel.com/
+- [ ] https://careers.king.com/jobs/job/15693-cloud-engineer-technology/
+- [ ] https://careers.kindredgroup.com/vacancy/find/results/
+- [ ] https://jobs.ericsson.com/search/?page=1&jobPipeline=careersite&utm_source=ericsson.com&utm_medium=referral&utm_campaign=search_widget&q=&locationsearch=stockholm&optionsFacetsDD_shifttype=New+Graduate
+- [ ] https://jobs.tink.se/jobs?department=Engineering&location=Stockholm
+- [ ] https://www.ferritico.com/data-scientist
+- [ ] https://jobs.apple.com/en-us/search?location=united-states-USA&team=deep-learning-and-reinforcement-learning-MLAI-DLRL
+- [ ] https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI
+- [ ] https://jobs.apple.com/en-us/search?location=united-states-USA&team=applied-research-MLAI-AR
+- [ ] https://jobs.apple.com/en-us/search?location=united-states-USA&team=natural-language-processing-and-speech-technologies-MLAI-NL
+- [ ] https://jobs.apple.com/en-us/search?location=united-states-USA&team=computer-vision-MLAI-CV
+- [ ] https://www.soprasteria.se/lediga-tjanster/
+- [ ] https://www.soprasteria.se/lediga-tjanster/jobbansokan/?jobid=128503
+- [ ] https://www.masentogroup.com/job-search/
+- [ ] https://univrses.com/career/
