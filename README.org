@@ -3,31 +3,6 @@
 Information and collection about repos, reports and more used for CVs and Personal letters
 
 
-* Projects
-#+ Surmize
-#+ Master Thesis
-#+ [[https://github.com/MarkusSagen/keras_classifier][keras_classifier]] for Peltarion Interview
-#+ [[https://github.com/MarkusSagen/Estimating-Uncertainty-in-Deep-Learning---project-2019][Estimating-Uncertainty-in-Deep-Learning]]
-#+ Automatic Memory manager in C (TODO)
-#+ [[https://github.com/IOOPM-UU/team-a2.2020][Memory management library in C based on reference counters]]
-#+ [[https://github.com/MrHed/ACC-grp6][Cloud service for computing genomic analysis with scalable clusters]] (Cloud compute)
-#+ Bayesian ranking system based on Microsoft TrueSkill
-#+ [[http://2018.igem.org/Team:Uppsala][iGEM 2018 tema webpage]]
-#+ [[https://github.com/MarkusSagen/MarkusSagen.github.io][Home page - MarkusSagen.github.io]]
-#+ [[https://github.com/MarkusSagen/Arduino_Keyboard_Multiple_inputs][Arduino_Keyboard_Multiple_inputs]]
-#+ [[https://github.com/MarkusSagen/mk3-spotify][GitHub - MarkusSagen/mk3-spotify: Spotify API tester with react]]  - Needs to be tested and dependencies updated
-#+ TODO - IOOPM:
-#  - https://github.com/IOOPM-UU/alexander.bergkvist.5473
-#   - https://github.com/MarkusSagen/Assignment_2
-
-* Personal Letter
-*** Machine learning - main_machine_learning:
-#- https://www.overleaf.com/project/5e6ea2fca294ee000136779d
-*** Software Engineer - main_software_engineering:
-#- https://www.overleaf.com/project/5e6ea2fca294ee000136779d
-* CV
-#- https://www.overleaf.com/project/5e3765dcd4449b0001710fff
-
 * Jobs
 ** TODO Graduate Programs and Internship
 ** Machine learning
